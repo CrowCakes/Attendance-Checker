@@ -5,6 +5,8 @@ This is a course requirement for CS191/192 Software Engineering Course of the De
 
 The project description may be found in the [01-Project-Documents](https://github.com/CrowCakes/Attendance-Checker/tree/master/01-Project-Documents) folder.
 
+A description of the requirements this project needs to meet may be found it the [02-Requirements-Engineering](https://github.com/CrowCakes/Attendance-Checker/tree/master/02-Requirements-Engineering) folder.
+
 ------------------------------------------------
 
 Team "6 Absences"
