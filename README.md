@@ -13,4 +13,4 @@ Team "6 Absences"
 
 Jeremy Micah Choa,
 Kenneth Velasquez,
-Jalexandei Gama Yvanova
+Faneallrich Li Yao
