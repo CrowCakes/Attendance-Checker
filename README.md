@@ -7,6 +7,10 @@ The project description may be found in the [01-Project-Documents](https://githu
 
 A description of the requirements this project needs to meet may be found in the [02-Requirements-Engineering](https://github.com/CrowCakes/Attendance-Checker/tree/master/02-Requirements-Engineering) folder.
 
+A sample of program design language descriptions for some of the program's functionalities may be found in the [03-Design-Engineering](https://github.com/CrowCakes/Attendance-Checker/tree/master/03-Design-Engineering) folder. 
+
+
+
 ------------------------------------------------
 
 Team "6 Absences"
