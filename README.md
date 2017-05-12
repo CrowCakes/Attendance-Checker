@@ -9,6 +9,9 @@ A description of the requirements this project needs to meet may be found in the
 
 A sample of program design language descriptions for some of the program's functionalities may be found in the [03-Design-Engineering](https://github.com/CrowCakes/Attendance-Checker/tree/master/03-Design-Engineering) folder. 
 
+The software may be found in the [05-Implementation](https://github.com/CrowCakes/Attendance-Checker/tree/master/05-Implementation) folder.
+
+Installation for end-users and development may be found in the [06 - Installation and Configuration Manuals](https://github.com/CrowCakes/Attendance-Checker/tree/master/06%20-%20Installation%20and%20Configuration%20Manuals) folder.
 
 
 ------------------------------------------------
